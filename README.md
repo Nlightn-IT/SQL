@@ -1,2 +1,0 @@
-# SQL
-Useful SQL Scripts 
